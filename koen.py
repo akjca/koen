@@ -30,5 +30,4 @@ for link in links:
 				f.write(alink+'\n') 
 			
 f.close()
-print 'The site returned no links'
-print 'probably...'
+print 'The site returned no links \n probably...'
